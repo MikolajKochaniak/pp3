@@ -23,5 +23,14 @@ class Student
     Boolean first_year;
     String field_of_study;
     String name_of_university;
-
+    void sayHello()
+    {
+        System.out.println("Hello from "+name);
+    }
+    void displayName()
+    {
+        System.out.println("name : " + name)
+        ;
+    }
+    
 }
