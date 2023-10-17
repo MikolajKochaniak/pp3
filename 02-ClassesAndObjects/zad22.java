@@ -1,5 +1,5 @@
 public class zad22 {
-    static void main(String[] args) {
+    public static void main(String[] args) {
     float speed = 158;
     if(speed<40 && speed>140)
     {
